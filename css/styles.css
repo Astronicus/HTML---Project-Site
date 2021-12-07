@@ -30,6 +30,7 @@ div{
 }
 .bottom-container{
   border:10px;
+  margin-bottom:60px;
 }
 .bottom-cloud{
   position:absolute;
@@ -40,4 +41,33 @@ div{
   position:absolute;
   right:300px;
   top:50px;
+}
+
+.joeyimg{
+  border-radius:50%;
+  width:225px;
+  height:225px;
+}
+.rishabhimg{
+  border-radius:50%;
+  width:225px;
+  height:225px;
+}
+
+.center{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.smallwidthcenter{
+  width:55%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.zcslogo{
+  height:10%;
+  width:10%;
+  margin-left:auto;
+  margin-right:auto;
 }
