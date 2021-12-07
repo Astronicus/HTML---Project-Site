@@ -30,7 +30,8 @@ div{
 }
 .bottom-container{
   border:10px;
-  margin-bottom:60px;
+  padding-bottom:60px;
+  background-color:#E4F9F5;
 }
 .bottom-cloud{
   position:absolute;
